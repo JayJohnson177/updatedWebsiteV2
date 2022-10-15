@@ -1,0 +1,10 @@
+h3 {color:orange; font-family: Arial, Helvetica, sans-serif;}
+ol {font-weight: 800;}
+ul {font-weight: bolder;}
+.greetingHeader {background-color: black;}
+#quoteText {font-style: italic ;}
+.displayPicture {border-radius: 150px;}
+.displayBorder {border:5px solid black}
+.roundedImages {border-radius: 50px;}
+.imagePanel {background-color: aquamarine;}
+.listPanel {background-color: lavender;}
